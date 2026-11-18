@@ -110,6 +110,5 @@
 </div>
 @endforeach
 
-
 @endforeach
 @endsection
